@@ -199,3 +199,4 @@ Motto      : "I don't wait for opportunities — I build skills until they chase
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Build.+Learn.+Ship.+Repeat.&fontSize=18&fontColor=00f7ff&animation=twinkling" />
 </p>
+YOLO test PR 😎
